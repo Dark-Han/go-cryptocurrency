@@ -1,2 +1,2 @@
-# go-crypto
+# go-cryptocurrency
 Go test project
